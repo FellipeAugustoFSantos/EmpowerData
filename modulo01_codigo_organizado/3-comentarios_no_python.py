@@ -2,7 +2,7 @@
 print("teste")
 print("teste")
 print("teste")
-# print("teste") comentário feiro com "ctrl + ;" transforma a lina em comentário
+# print("teste") comentário feiro com "ctrl + ;" transforma a linha em comentário
 
 """
 isso é um comentário 

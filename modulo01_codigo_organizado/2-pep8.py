@@ -6,5 +6,5 @@ def minha_funcao():
 
 # padrão de nomeclatura camelCase
 #class ClinicaOdontoLogica....
-# apretar Shift + Alt + F formata a identação do código
+# apretar Shift + Alt + F formata a identação do código 
 
